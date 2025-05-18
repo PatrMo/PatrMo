@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @PatrMo
-- 👀 I’m interested in math, science, and physics
-- 💞️ I’m looking to collaborate on interesting projects
+👋 Hi, I’m Patrick Molka
+
+I code sometimes.
+I'm not fun at parties.
+
+I am scared of commitment (Git).
+
 - 📫 How to reach me: molka.patrick@gmail.com
 
 <!---
