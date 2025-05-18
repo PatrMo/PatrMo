@@ -1,6 +1,7 @@
 👋 Hi, I’m Patrick Molka
 
 I code sometimes.
+
 I'm not fun at parties.
 
 I am scared of commitment (Git).
