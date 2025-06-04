@@ -2,8 +2,6 @@
 
 I code sometimes.
 
-I'm not fun at parties.
-
 I am scared of commitment (Git).
 
 - 📫 How to reach me: molka.patrick@gmail.com
